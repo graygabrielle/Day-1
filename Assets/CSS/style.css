@@ -40,7 +40,11 @@ section, aside {
     opacity: 0.75;
     padding: 1.5em;
     border-radius: 3em;
-    margin: 2em 0;
+
+}
+
+section {
+    margin: 2em;
 }
 
 .container {
